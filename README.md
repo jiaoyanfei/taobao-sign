@@ -10,3 +10,4 @@
 #### 其中appKey 可在相关api中查到，一般是对应app的key，是个固定值
 #### 其中data就是此http(s)请求的相关核心参数，具体依不同的api而不同
 #### getToken 和 makeSign 详见本项目sign.js
+![avatar](/images/demo.png)
