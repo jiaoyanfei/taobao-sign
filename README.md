@@ -12,6 +12,4 @@
 #### getToken 和 makeSign 详见本项目sign.js
 ![avatar](/images/demo.png)
 
-# License(/LICENSE)
-
-License(/LICENSE)
+# [License](/LICENSE)
